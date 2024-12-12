@@ -1,5 +1,5 @@
 # Rust CLI Binary with SQLite
-
+[![Rust CLI Binary](https://github.com/nogibjj/individual_2_zihan/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/individual_2_zihan/actions/workflows/cicd.yml)
 ## Overview
 
 This project is a Rust command-line application that performs various operations on a SQLite database using data from a CSV file. The project demonstrates the use of Rust for handling data extraction, transformation, and CRUD (Create, Read, Update, Delete) operations on a SQLite database.
