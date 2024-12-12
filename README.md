@@ -92,7 +92,7 @@ The database schema used in this project consists of a single table:
 
 ## Video Demonstration
 
-For a detailed walkthrough and demonstration of this CLI application, please check out this [YouTube video](https://youtu.be/your-video-link).
+For a detailed walkthrough and demonstration of this CLI application, please check out this [YouTube video](https://youtu.be/I4Pfu5N9DUw).
 
 ## Acknowledgments
 
